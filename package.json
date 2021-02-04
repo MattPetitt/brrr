@@ -8,8 +8,14 @@
     "start": "next start"
   },
   "dependencies": {
+    "@nivo/core": "^0.67.0",
+    "@nivo/pie": "^0.67.0",
+    "@nivo/treemap": "^0.67.0",
+    "autoprefixer": "^10.2.3",
     "next": "10.0.5",
+    "postcss": "^8.2.4",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "tailwindcss": "^2.0.2"
   }
 }
